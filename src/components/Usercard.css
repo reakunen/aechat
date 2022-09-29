@@ -1,0 +1,9 @@
+.card-container {
+    display: flex; 
+    border: 1px solid black; 
+    padding: 12px; 
+}
+
+.userPhoto {
+    border-radius: 50%;
+}

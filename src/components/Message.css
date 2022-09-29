@@ -1,0 +1,26 @@
+.right {
+    background-color: #2294fb;
+    justify-content: flex-end;
+    display: flex; 
+}
+
+.deleteBut {
+    border-radius: 50%;
+
+}
+.left {
+    background-color: #171717; 
+    display: flex; 
+}
+/* .hidden {
+    display: hidden; 
+} */
+
+.deleteButton {
+    border-radius: 50%; 
+}
+.message {
+    display: flex; 
+    flex-direction: column;
+  color: #ececec;   
+}
