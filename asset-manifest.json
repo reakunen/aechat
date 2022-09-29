@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aechat/static/css/main.b4a21fff.css",
+    "main.js": "/aechat/static/js/main.bccae20d.js",
+    "index.html": "/aechat/index.html",
+    "main.b4a21fff.css.map": "/aechat/static/css/main.b4a21fff.css.map",
+    "main.bccae20d.js.map": "/aechat/static/js/main.bccae20d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4a21fff.css",
+    "static/js/main.bccae20d.js"
+  ]
+}
