@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/aechat/static/css/main.b4a21fff.css",
-    "main.js": "/aechat/static/js/main.bccae20d.js",
+    "main.css": "/aechat/static/css/main.3ef2ab95.css",
+    "main.js": "/aechat/static/js/main.dcf4b6b2.js",
     "index.html": "/aechat/index.html",
-    "main.b4a21fff.css.map": "/aechat/static/css/main.b4a21fff.css.map",
-    "main.bccae20d.js.map": "/aechat/static/js/main.bccae20d.js.map"
+    "main.3ef2ab95.css.map": "/aechat/static/css/main.3ef2ab95.css.map",
+    "main.dcf4b6b2.js.map": "/aechat/static/js/main.dcf4b6b2.js.map"
   },
   "entrypoints": [
-    "static/css/main.b4a21fff.css",
-    "static/js/main.bccae20d.js"
+    "static/css/main.3ef2ab95.css",
+    "static/js/main.dcf4b6b2.js"
   ]
 }
